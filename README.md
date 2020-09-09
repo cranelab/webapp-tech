@@ -1,6 +1,6 @@
 ## Web Application Technologies
 
-## Table of Contents
+### Table of Contents
 
 *   [General](#general)
 
