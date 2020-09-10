@@ -13,7 +13,7 @@
     *   [OAUTH](#oauth)
     *   [Robots.txt](#robots)
     *   [Same-Origin-Policy](#sop)
-    *   [Security Assertion Markup Language (SAML))](#saml)
+    *   [Security Assertion Markup Language (SAML)](#saml)
     *   [Service Workers](#serviceworkers)
     *   [SubResource Integrity](#sri)
     *   [Uniform Resource Identifier/Locator(URIs/URLs)](#uri)
