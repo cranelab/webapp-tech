@@ -1421,7 +1421,8 @@
     *   Back in 2011, I took a look at several tools used to deobfuscate Javascript. This time around I will use several popular automated and semi-automated/manual tools to see how they would fare against today’s obfuscated scripts with the least amount of intervention.
 *   [Javascript Deobfuscator - kahusecurity](http://www.kahusecurity.com/tools/)
 *   [Revelo - kahusecurity](http://www.kahusecurity.com/tools/)
-
+*   [Binary Translator](https://binarytranslator.app/)
+    *   Free online binary code converter: binary to text and text to binary as you type; supports UTF-8, emoji, hex and decimal.
 * * *
 
 #### <a name="dsa">Data Structure Attacks</a>
